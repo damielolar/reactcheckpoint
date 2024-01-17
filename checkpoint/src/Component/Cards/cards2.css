@@ -1,0 +1,7 @@
+.icons{
+display: flex;
+justify-content: space-around;
+padding: 5%;
+color: brown;
+font-size: x-large;
+}

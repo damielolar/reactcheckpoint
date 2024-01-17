@@ -1,0 +1,15 @@
+.card{
+    width: 200px;
+    margin: 5px;
+    background-color:#6FBCDD;
+
+}
+.title{
+    color :black;
+    margin-top: 3%;
+}
+.text {
+    color :rgb(20, 50, 76);
+    margin-top: 10%;
+    line-height: 160%;
+}
