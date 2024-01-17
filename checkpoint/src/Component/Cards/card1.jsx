@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 import './card1.css'
 import Photo from '../Assest/kiarah.JPG'
 
-
+// bootstrap card2
 function BasicExample() {
     return (
         

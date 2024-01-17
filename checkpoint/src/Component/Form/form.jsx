@@ -2,6 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import './form.css'
 
+// bootstrap form
 function FormDisabledExample() {
     return (
         <Form>

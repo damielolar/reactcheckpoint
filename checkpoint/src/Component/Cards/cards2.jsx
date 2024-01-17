@@ -1,7 +1,7 @@
 import Card from 'react-bootstrap/Card';
 import './cards2.css'
 
-
+// card 1
 function BodyOnlyExample() {
     return (
         <Card>
